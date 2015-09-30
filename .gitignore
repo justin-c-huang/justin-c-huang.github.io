@@ -1,0 +1,10 @@
+Gemfile.lock
+*.gem
+.bundle/
+.DS_Store
+bbin/
+gh-pages/
+_site/
+.sass-cache/
+.jekyll-metadata
+
